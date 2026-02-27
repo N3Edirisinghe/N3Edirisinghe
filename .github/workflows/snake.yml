@@ -6,21 +6,23 @@ on:
   workflow_dispatch:
 
 jobs:
-  build:
+  generate:
     runs-on: ubuntu-latest
 
     steps:
-      - name: Checkout Repository
+      - name: Checkout repository
         uses: actions/checkout@v3
 
-      - name: Generate Snake
+      - name: Generate snake animation
         uses: Platane/snk@v3
         with:
           github_user_name: N3Edirisinghe
           outputs: |
-            dist/snake-neon.svg?palette=github-dark&color_snake=#00f7ff&color_dots=#00f7ff,#005eff,#00ff88,#ff00c8
+            dist/github-contribution-grid-snake.svg?palette=github-dark
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+            dist/github-contribution-grid-snake-neon.svg?palette=github-dark&color_snake=#00f7ff&color_dots=#00f7ff,#005eff,#00ff88,#ff00c8
 
-      - name: Push Snake
+      - name: Push to output branch
         uses: crazy-max/ghaction-github-pages@v3
         with:
           target_branch: output
