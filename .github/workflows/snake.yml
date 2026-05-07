@@ -1,0 +1,35 @@
+name: Generate Cyber Neon Snake
+
+on:
+  schedule:
+    - cron: "0 */12 * * *"
+  workflow_dispatch:
+  push:
+    branches:
+      - main
+
+jobs:
+  generate:
+    permissions:
+      contents: write
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+
+    steps:
+      - name: Generate Cyber Snake
+        uses: Platane/snk@v3
+        with:
+          github_user_name: N3Edirisinghe
+          outputs: |
+            dist/github-contribution-grid-snake.svg?palette=github-dark&color_snake=#7df9ff&color_dots=#0b1220,#111827,#1f2937,#7c3aed
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark&color_snake=#7df9ff&color_dots=#0b1220,#111827,#1f2937,#7c3aed
+
+      - name: Push Snake to Output Branch
+        uses: crazy-max/ghaction-github-pages@v3.1.0
+        with:
+          target_branch: output
+          build_dir: dist
+          committer: Nilupul Thisaranga <10nilupulthisaranga@gmail.com>
+          author: Nilupul Thisaranga <10nilupulthisaranga@gmail.com>
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
