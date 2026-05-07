@@ -6,18 +6,11 @@
 <br/>
 
 <!-- 🛡️ PROFESSIONAL TITLE & SUMMARY -->
-<h1>Cybersecurity Professional & Full-Stack Developer</h1>
+<h1>Cybersecurity Undergraduate & Full-Stack Developer</h1>
 <p><i>Specializing in Offensive Security, Threat Analysis, and Secure System Design.</i></p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Pronouns-he%2Fhim-00b4d8?style=flat-square&logoColor=white" />
-  <img src="https://img.shields.io/badge/Location-Rathnapura%2C%20Sri%20Lanka-00b4d8?style=flat-square&logo=google-maps&logoColor=white" />
-  <img src="https://img.shields.io/badge/Education-SLTC-00b4d8?style=flat-square&logo=graduation-cap&logoColor=white" />
-</p>
-
-<p align="center">
   <a href="https://linkedin.com/in/nilupul-thisaranga-edirisinghe" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://facebook.com/thisaranga.edirisinghe" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" /></a>
   <a href="https://medium.com/@nilupulthisaranga" target="_blank"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" /></a>
   <a href="mailto:nilupulthisaranga@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <a href="https://nilupulthisarangaedirisinghe.netlify.app/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-00b4d8?style=for-the-badge&logo=google-chrome&logoColor=white" /></a>
@@ -29,7 +22,7 @@
 
 ### 📋 EXECUTIVE SUMMARY
 
-Passionate **Cybersecurity Undergraduate at SLTC** with a strong foundation in **Offensive Security** and **Full-Stack Development**. Currently pursuing advanced certifications (OSCP/CEH) and actively contributing to open-source security projects. Focused on identifying vulnerabilities and implementing robust security architectures to protect digital assets.
+Passionate **Cybersecurity Undergraduate** with a strong foundation in **Offensive Security** and **Full-Stack Development**. Currently pursuing advanced certifications (OSCP/CEH) and actively contributing to open-source security projects. Focused on identifying vulnerabilities and implementing robust security architectures to protect digital assets.
 
 ---
 
@@ -62,24 +55,12 @@ Passionate **Cybersecurity Undergraduate at SLTC** with a strong foundation in *
 | :--- | :--- | :--- |
 | **CompTIA Security+** | CompTIA | ✅ Certified |
 | **Certified Ethical Hacker (CEH)** | EC-Council | ⏳ In Progress |
-| **Offensive Security Certified Professional (OSCP)** | OffSec | 🎯 Roadmap 2024 |
+| **Offensive Security Certified Professional (OSCP)** | OffSec | 🎯 Roadmap 2029 |
 
 </div>
 
 ---
 
-### 📂 FEATURED PROJECTS
-
-<div align="center">
-  <a href="https://github.com/N3Edirisinghe/snake-animation">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=N3Edirisinghe&repo=snake-animation&theme=tokyonight&bg_color=0d1117&title_color=00b4d8&text_color=ffffff&hide_border=true" />
-  </a>
-  <a href="https://github.com/N3Edirisinghe/Secure-Chat-App">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=N3Edirisinghe&repo=Secure-Chat-App&theme=tokyonight&bg_color=0d1117&title_color=00b4d8&text_color=ffffff&hide_border=true" />
-  </a>
-</div>
-
----
 
 ### 🏆 ACHIEVEMENTS & METRICS
 
@@ -96,14 +77,8 @@ Passionate **Cybersecurity Undergraduate at SLTC** with a strong foundation in *
 ### 📊 PERFORMANCE METRICS
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=N3Edirisinghe&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00b4d8&text_color=ffffff&icon_color=00b4d8" height="190" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=N3Edirisinghe&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00b4d8&text_color=ffffff" height="190" />
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="github-metrics.svg" width="100%" alt="GitHub Metrics" />
+  <img src="https://github-readme-stats-kappa.vercel.app/api?username=N3Edirisinghe&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-stats-kappa.vercel.app/api/top-langs/?username=N3Edirisinghe&layout=compact&theme=radical" alt="Top Languages" />
 </div>
 
 ---
