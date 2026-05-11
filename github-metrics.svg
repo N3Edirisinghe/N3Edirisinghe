@@ -43,7 +43,7 @@
                                     <rect class="day" x="150" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
                                     <rect class="day" x="165" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
                                     <rect class="day" x="180" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
-                                    <rect class="day" x="195" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
+                                    <rect class="day" x="195" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
                                 </g>
                             </svg>
                         </div>
@@ -69,7 +69,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                             </svg>
-                            119 Commits
+                            120 Commits
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -321,14 +321,14 @@
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="204.02738497388236" height="8" fill="#00B4AB"/>
-                    <rect mask="url(#languages-bar)" x="204.02738497388236" y="0" width="110.17415429429674" height="8" fill="#A97BFF"/>
-                    <rect mask="url(#languages-bar)" x="314.2015392681791" y="0" width="61.08639760724476" height="8" fill="#3178c6"/>
-                    <rect mask="url(#languages-bar)" x="375.28793687542384" y="0" width="31.693316055192845" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="406.9812529306167" y="0" width="23.52815181018293" height="8" fill="#e34c26"/>
-                    <rect mask="url(#languages-bar)" x="430.5094047407996" y="0" width="21.905439574348687" height="8" fill="#3572A5"/>
-                    <rect mask="url(#languages-bar)" x="452.4148443151483" y="0" width="6.496788864584592" height="8" fill="#663399"/>
-                    <rect mask="url(#languages-bar)" x="458.91163317973286" y="0" width="1.0883668202670758" height="8" fill="#336790"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="202.51890766905152" height="8" fill="#00B4AB"/>
+                    <rect mask="url(#languages-bar)" x="202.51890766905152" y="0" width="109.35958123415014" height="8" fill="#A97BFF"/>
+                    <rect mask="url(#languages-bar)" x="311.8784889032017" y="0" width="60.63475507682563" height="8" fill="#3178c6"/>
+                    <rect mask="url(#languages-bar)" x="372.51324398002726" y="0" width="34.85914343980054" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="407.3723874198278" y="0" width="23.35419632359558" height="8" fill="#e34c26"/>
+                    <rect mask="url(#languages-bar)" x="430.7265837434234" y="0" width="21.743481617310326" height="8" fill="#3572A5"/>
+                    <rect mask="url(#languages-bar)" x="452.4700653607337" y="0" width="6.449614663533881" height="8" fill="#663399"/>
+                    <rect mask="url(#languages-bar)" x="458.9196800242676" y="0" width="1.0803199757323876" height="8" fill="#336790"/>
                 </svg>
                 <div class="field center horizontal-wrap fill-width">
                     <div class="field center no-wrap language">
@@ -1466,7 +1466,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>N3Edirisinghe/Popup-Quizer</span>
-                                        <span>starred 3 days ago</span>
+                                        <span>starred 4 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A Chrome extension that highlights the correct answer in online quizzes using AI when hovering over a question.</div>
@@ -1513,7 +1513,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>N3Edirisinghe/UniVote</span>
-                                        <span>starred 3 days ago</span>
+                                        <span>starred 4 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">About A modern and secure web-based voting system for SLTC, designed to facilitate seamless and transparent elections. Built with Next.js, React, Tailwind CSS, and Supabase</div>
@@ -1664,7 +1664,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 11 May 2026, 08:02:13 (timezone Asia/Colombo) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 11 May 2026, 20:04:16 (timezone Asia/Colombo) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
