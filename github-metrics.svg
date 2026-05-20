@@ -1529,7 +1529,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>N3Edirisinghe/Popup-Quizer</span>
-                                        <span>starred 12 days ago</span>
+                                        <span>starred 13 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A Chrome extension that highlights the correct answer in online quizzes using AI when hovering over a question.</div>
@@ -1576,7 +1576,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>N3Edirisinghe/UniVote</span>
-                                        <span>starred 12 days ago</span>
+                                        <span>starred 13 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">About A modern and secure web-based voting system for SLTC, designed to facilitate seamless and transparent elections. Built with Next.js, React, Tailwind CSS, and Supabase</div>
@@ -1685,7 +1685,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 20 May 2026, 08:08:57 (timezone Asia/Colombo) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 20 May 2026, 20:15:33 (timezone Asia/Colombo) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
